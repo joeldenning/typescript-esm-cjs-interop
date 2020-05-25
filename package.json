@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "compile": "tsc",
+    "test": "yarn compile && node lib/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  }
+}
