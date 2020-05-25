@@ -8,7 +8,7 @@ This repo demonstrates a problem with the Typescript esModuleInterop. If typescr
 node lib/index.js
 ```
 
-Note the "Cannot redefine property: default" issue
+Note the "Cannot redefine property: default" error that is thrown
 
 ## Compiling the code
 
